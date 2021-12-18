@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mmoccaro
+- 👀 I’m interested in networking!
+- 🌱 I’m currently learning all networking related topics, including those to pass certification exams on routing and security topics.
+- 💞️ I’m looking to collaborate on network automation.
+- 📫 How to reach me is via my email at mmoccaro@gmail.com
